@@ -553,3 +553,4 @@ SMS Alert
 Emergency Alert
 Elderly Safety
 ```
+Deploy link : https://jani1233.github.io/ai-elderly-fall-detection-/
